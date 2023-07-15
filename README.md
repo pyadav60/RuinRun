@@ -1,4 +1,4 @@
-# RuinRun
+# Ruin Run
 
 ...is a minimalistic mode 3 GBA game where you dodge paintballs to find the jungle treasure! This was a very open ended project, so I made something simple yet timeless. The theme is supposed to be akin to temple run, though its really not like temple run in any way at all.
 
